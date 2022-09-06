@@ -1,2 +1,2 @@
-# Analisis-de-soft
+# APP DE INVENTARIO PC'S
 informacion
